@@ -62,6 +62,12 @@ git clone https://github.com/RuthMaria/podcastr.git
 yarn
 ```
 
+- Run the API
+
+```
+yarn server
+```
+
 - Run the project
 
 ```
