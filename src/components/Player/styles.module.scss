@@ -28,7 +28,7 @@
     align-self: stretch;
     margin-top: 3.5rem;
 
-    &.empty {
+    &.empty .progress {
       opacity: 0.5;
     }
   }
@@ -115,6 +115,7 @@
 
     &:disabled {
       cursor: default;
+      opacity: 0.5;
     }
 
     &:hover:not(.disabled) {
