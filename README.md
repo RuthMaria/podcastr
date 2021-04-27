@@ -24,6 +24,17 @@
 
 ## :books: About
 
+An application for listening to podcasts, where you can:
+
+- Check the latest podcasts releases
+- View all released episodes
+- View details of a specific podcast
+- Listen to a podcast
+- Go to the next podcasts
+- Go back to a previous podcast
+- Repeat a podcast
+- Listen to podcasts in random mode
+
 <a id="execution"></a><br>
 
 ## :tv: Preview
@@ -42,9 +53,8 @@
 - Sass
 - CSS module
 - Content API
-- Cookie
-
-<a id="run"></a><br>
+- SSR
+  <a id="run"></a><br>
 
 ## 🚀 How to run the project
 
